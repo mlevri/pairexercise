@@ -6,6 +6,10 @@ body {
   h1, #designed-by {
   text-align: center;
   }
+
+  p, #designed-by {
+    text-align: center;
+  }
    
   .style1 {
     background-color: #9B9A9A;
